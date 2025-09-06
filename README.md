@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=nadeera365&style=flat&color=blue)
 
 <h1 align="center">Hi!,  I'm Nadeera Shasika <img src=
-"https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3F5OGZjbHlmZHNma2o2bHcxMDkybDVsZzJ6NDg4M3FtOXVncnFsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1IB22SuYeEMMPTguL/giphy.gif" width="35"></h1>
+"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center" style="border: px solid #000000;>
 

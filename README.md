@@ -5,7 +5,7 @@
 
 <div align="center" style="border: px solid #000000;>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=28&color=%233DE0F8&center=true&vCenter=true&width=1000&height=120&lines=Undergraduate+at+Sabaragamuwa+University+of+Sri+Lanka;B.Sc.+Hons+in+Computer+Science+%26+Technology;Full+Stack+Developer;ML+Engineering+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=28&color=%233DE0F8&center=true&vCenter=true&width=1000&height=120&lines=Undergraduate+at+Sabaragamuwa+University+of+Sri+Lanka;B.Sc.+Hons+in+Computer+Science+%26+Technology;Full+Stack+Developer;ML+Engineering+enthusiast)](https://git.io/typing-svg)
 </div>
 <p align="center" >
  <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />

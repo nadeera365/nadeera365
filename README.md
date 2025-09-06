@@ -1,14 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=nadeera365&style=flat&color=blue)
 
 <h1 align="center">Hi!,  I'm Nadeera Shasika <img src=
-"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHkxanFhYXU3Z3l5MHBjNjRvZWJhbG1meGcxbGNsc3M2ZmZxMDJvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="35"></h1>
+"https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3F5OGZjbHlmZHNma2o2bHcxMDkybDVsZzJ6NDg4M3FtOXVncnFsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1IB22SuYeEMMPTguL/giphy.gif" width="35"></h1>
 
 <div align="center" style="border: px solid #000000;>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=28&color=%233DE0F8&center=true&vCenter=true&width=1000&height=120&lines=Undergraduate+at+Sabaragamuwa+University+of+Sri+Lanka;B.Sc.+Hons+in+Computer+Science+%26+Technology;Full+Stack+Developer;ML+Engineering+enthusiast)](https://git.io/typing-svg)
 </div>
 <p align="center" >
- <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+ <img  height="280rem" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHkxanFhYXU3Z3l5MHBjNjRvZWJhbG1meGcxbGNsc3M2ZmZxMDJvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" />
  </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>

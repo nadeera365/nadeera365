@@ -148,9 +148,21 @@ I am an undergraduate student pursuing a B.Sc. (Hons) in Computer Science, with 
   
 </p>
 
+### 📡 API Testing / Development Tools
+
+<p align="left"> 
+
+  <a href="https://www.postman.com/" target="_blank">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+  </a>
+  
+   
+  
+</p>
+
 ### 🎛️ Operating Systems
  
-  
+ <p align="left"> 
  <a href="https://www.kali.org/" target="_blank"> 
     <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-268BEE?logo=kalilinux&logoColor=white"/>
   </a>

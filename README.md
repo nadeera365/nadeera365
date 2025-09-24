@@ -142,9 +142,7 @@ I am an undergraduate student pursuing a B.Sc. (Hons) in Computer Science, with 
    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
   </a>  
 
- <a href="https://firebase.google.com/" target="_blank"> 
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=Firebase&logoColor=white"/>
-  </a>
+ 
   
 </p>
 
@@ -200,6 +198,9 @@ I am an undergraduate student pursuing a B.Sc. (Hons) in Computer Science, with 
   <a href="https://visualstudio.microsoft.com/" target="_blank"> 
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
   </a>
+  <a href="http://www.codeblocks.org/" target="_blank">
+  <img alt="Code::Blocks" src="https://img.shields.io/badge/Code::Blocks-000000?logoColor=white&labelColor=3D9BE9">
+</a>
 </p>
 
   
@@ -215,9 +216,7 @@ I am an undergraduate student pursuing a B.Sc. (Hons) in Computer Science, with 
 <a href="https://powerbi.microsoft.com/" target="_blank">
   <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=black">
 </a>
-<a href="http://www.codeblocks.org/" target="_blank">
-  <img alt="Code::Blocks" src="https://img.shields.io/badge/Code::Blocks-000000?logoColor=white&labelColor=3D9BE9">
-</a>
+
 
 
 
